@@ -1,6 +1,6 @@
 # Stereotypical Transfem List
 
-[Click to view this list :3](https://github.com/NavaShield/transfem-stereotype/blob/main/transfems.txt)
+[Click to view the list :3](https://github.com/NavaShield/transfem-stereotype/blob/main/transfems.txt)
 
 [Create a pull request to add to the list :3](https://github.com/NavaShield/transfem-stereotype/compare)
 
